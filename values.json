@@ -1,0 +1,2114 @@
+{
+    "download": {
+        "curseforge": "2.5M",
+        "total": "2,514,855",
+        "curseforgeRaw": 2514855,
+        "totalRaw": 2514855,
+        "downloadDelta": "17.2K",
+        "downloadDeltaRaw": 17240
+    },
+    "oldDownloads": [
+        {
+            "timestamp": 1648307896049,
+            "totalRaw": 981,
+            "delta": 882973
+        },
+        {
+            "timestamp": 1648281572792,
+            "totalRaw": 881992,
+            "delta": 881992
+        },
+        {
+            "timestamp": 1648308343650,
+            "totalRaw": 882973,
+            "delta": 981
+        },
+        {
+            "timestamp": 1648344400718,
+            "totalRaw": 884375,
+            "delta": 2383
+        },
+        {
+            "timestamp": 1648431602363,
+            "totalRaw": 887528,
+            "delta": 3153
+        },
+        {
+            "timestamp": 1648517136207,
+            "totalRaw": 889138,
+            "delta": 1610
+        },
+        {
+            "timestamp": 1648603604461,
+            "totalRaw": 890701,
+            "delta": 1563
+        },
+        {
+            "timestamp": 1648671435193,
+            "totalRaw": 891897,
+            "delta": 1196
+        },
+        {
+            "timestamp": 1648689976797,
+            "totalRaw": 892170,
+            "delta": 1469
+        },
+        {
+            "timestamp": 1648777556699,
+            "totalRaw": 893574,
+            "delta": 1404
+        },
+        {
+            "timestamp": 1648862721039,
+            "totalRaw": 895058,
+            "delta": 1484
+        },
+        {
+            "timestamp": 1648949906306,
+            "totalRaw": 896929,
+            "delta": 1871
+        },
+        {
+            "timestamp": 1649036384008,
+            "totalRaw": 898763,
+            "delta": 1834
+        },
+        {
+            "timestamp": 1649121854251,
+            "totalRaw": 900103,
+            "delta": 1340
+        },
+        {
+            "timestamp": 1649208862580,
+            "totalRaw": 901360,
+            "delta": 1257
+        },
+        {
+            "timestamp": 1649294729242,
+            "totalRaw": 902572,
+            "delta": 1212
+        },
+        {
+            "timestamp": 1649381760910,
+            "totalRaw": 903858,
+            "delta": 1286
+        },
+        {
+            "timestamp": 1649467429559,
+            "totalRaw": 905216,
+            "delta": 1358
+        },
+        {
+            "timestamp": 1649554686207,
+            "totalRaw": 906861,
+            "delta": 1645
+        },
+        {
+            "timestamp": 1649641104336,
+            "totalRaw": 908598,
+            "delta": 1737
+        },
+        {
+            "timestamp": 1649727329597,
+            "totalRaw": 909909,
+            "delta": 1311
+        },
+        {
+            "timestamp": 1649814176625,
+            "totalRaw": 911149,
+            "delta": 1240
+        },
+        {
+            "timestamp": 1649900662036,
+            "totalRaw": 912371,
+            "delta": 1222
+        },
+        {
+            "timestamp": 1649986771960,
+            "totalRaw": 913578,
+            "delta": 1207
+        },
+        {
+            "timestamp": 1650072390012,
+            "totalRaw": 915034,
+            "delta": 1456
+        },
+        {
+            "timestamp": 1650159621213,
+            "totalRaw": 916588,
+            "delta": 1554
+        },
+        {
+            "timestamp": 1650246697025,
+            "totalRaw": 917996,
+            "delta": 1408
+        },
+        {
+            "timestamp": 1650332945835,
+            "totalRaw": 919284,
+            "delta": 1288
+        },
+        {
+            "timestamp": 1650419670210,
+            "totalRaw": 920459,
+            "delta": 1175
+        },
+        {
+            "timestamp": 1650505557743,
+            "totalRaw": 921711,
+            "delta": 1252
+        },
+        {
+            "timestamp": 1650592366267,
+            "totalRaw": 922846,
+            "delta": 1135
+        },
+        {
+            "timestamp": 1650677879748,
+            "totalRaw": 923964,
+            "delta": 1118
+        },
+        {
+            "timestamp": 1650764284080,
+            "totalRaw": 925482,
+            "delta": 1518
+        },
+        {
+            "timestamp": 1650850848131,
+            "totalRaw": 926960,
+            "delta": 1478
+        },
+        {
+            "timestamp": 1650937882562,
+            "totalRaw": 928056,
+            "delta": 1096
+        },
+        {
+            "timestamp": 1651024366066,
+            "totalRaw": 929047,
+            "delta": 991
+        },
+        {
+            "timestamp": 1651112573435,
+            "totalRaw": 930062,
+            "delta": 1015
+        },
+        {
+            "timestamp": 1651197215946,
+            "totalRaw": 930982,
+            "delta": 920
+        },
+        {
+            "timestamp": 1651283658081,
+            "totalRaw": 932047,
+            "delta": 1065
+        },
+        {
+            "timestamp": 1651371128166,
+            "totalRaw": 933557,
+            "delta": 1510
+        },
+        {
+            "timestamp": 1651456476907,
+            "totalRaw": 908782,
+            "delta": -24775
+        },
+        {
+            "timestamp": 1651542856357,
+            "totalRaw": 908782,
+            "delta": 0
+        },
+        {
+            "timestamp": 1651629105335,
+            "totalRaw": 908782,
+            "delta": 0
+        },
+        {
+            "timestamp": 1651715185154,
+            "totalRaw": 908782,
+            "delta": 0
+        },
+        {
+            "timestamp": 1651800422744,
+            "totalRaw": 908782,
+            "delta": 0
+        },
+        {
+            "timestamp": 1651887522156,
+            "totalRaw": 908782,
+            "delta": 0
+        },
+        {
+            "timestamp": 1651974733603,
+            "totalRaw": 908782,
+            "delta": 0
+        },
+        {
+            "timestamp": 1652060996240,
+            "totalRaw": 908782,
+            "delta": 0
+        },
+        {
+            "timestamp": 1652145745564,
+            "totalRaw": 908782,
+            "delta": 0
+        },
+        {
+            "timestamp": 1652234026687,
+            "totalRaw": 914972,
+            "delta": 6190
+        },
+        {
+            "timestamp": 1652320394921,
+            "totalRaw": 914972,
+            "delta": 0
+        },
+        {
+            "timestamp": 1652406943957,
+            "totalRaw": 914972,
+            "delta": 0
+        },
+        {
+            "timestamp": 1652493589120,
+            "totalRaw": 915306,
+            "delta": 334
+        },
+        {
+            "timestamp": 1652579830719,
+            "totalRaw": 915306,
+            "delta": 0
+        },
+        {
+            "timestamp": 1652665253921,
+            "totalRaw": 883741,
+            "delta": -31565
+        },
+        {
+            "timestamp": 1652751913756,
+            "totalRaw": 884418,
+            "delta": 677
+        },
+        {
+            "timestamp": 1652837867986,
+            "totalRaw": 893865,
+            "delta": 9447
+        },
+        {
+            "timestamp": 1652925372312,
+            "totalRaw": 903162,
+            "delta": 9297
+        },
+        {
+            "timestamp": 1653011169399,
+            "totalRaw": 934727,
+            "delta": 31565
+        },
+        {
+            "timestamp": 1653096072060,
+            "totalRaw": 934727,
+            "delta": 0
+        },
+        {
+            "timestamp": 1653183694716,
+            "totalRaw": 934727,
+            "delta": 0
+        },
+        {
+            "timestamp": 1653270408223,
+            "totalRaw": 936737,
+            "delta": 2010
+        },
+        {
+            "timestamp": 1653298942017,
+            "totalRaw": 936737,
+            "delta": 0
+        },
+        {
+            "timestamp": 1653357085437,
+            "totalRaw": 936956,
+            "delta": 219
+        },
+        {
+            "timestamp": 1653443425666,
+            "totalRaw": 936956,
+            "delta": 0
+        },
+        {
+            "timestamp": 1653530000240,
+            "totalRaw": 936956,
+            "delta": 0
+        },
+        {
+            "timestamp": 1653616208437,
+            "totalRaw": 936956,
+            "delta": 0
+        },
+        {
+            "timestamp": 1653702238752,
+            "totalRaw": 937091,
+            "delta": 135
+        },
+        {
+            "timestamp": 1653789442941,
+            "totalRaw": 937119,
+            "delta": 28
+        },
+        {
+            "timestamp": 1653875611365,
+            "totalRaw": 937119,
+            "delta": 0
+        },
+        {
+            "timestamp": 1653961925746,
+            "totalRaw": 937119,
+            "delta": 0
+        },
+        {
+            "timestamp": 1654049125724,
+            "totalRaw": 937119,
+            "delta": 0
+        },
+        {
+            "timestamp": 1654134871417,
+            "totalRaw": 937119,
+            "delta": 0
+        },
+        {
+            "timestamp": 1654220341870,
+            "totalRaw": 937119,
+            "delta": 0
+        },
+        {
+            "timestamp": 1654306648465,
+            "totalRaw": 937119,
+            "delta": 0
+        },
+        {
+            "timestamp": 1654393930274,
+            "totalRaw": 937119,
+            "delta": 0
+        },
+        {
+            "timestamp": 1654480183403,
+            "totalRaw": 937119,
+            "delta": 0
+        },
+        {
+            "timestamp": 1654566389609,
+            "totalRaw": 937119,
+            "delta": 0
+        },
+        {
+            "timestamp": 1654652699327,
+            "totalRaw": 937119,
+            "delta": 0
+        },
+        {
+            "timestamp": 1654739152449,
+            "totalRaw": 945460,
+            "delta": 8341
+        },
+        {
+            "timestamp": 1654825923902,
+            "totalRaw": 946991,
+            "delta": 1531
+        },
+        {
+            "timestamp": 1654911932920,
+            "totalRaw": 948040,
+            "delta": 1049
+        },
+        {
+            "timestamp": 1654999076142,
+            "totalRaw": 948040,
+            "delta": 0
+        },
+        {
+            "timestamp": 1655085482500,
+            "totalRaw": 949494,
+            "delta": 1454
+        },
+        {
+            "timestamp": 1655172124306,
+            "totalRaw": 949831,
+            "delta": 337
+        },
+        {
+            "timestamp": 1655258068416,
+            "totalRaw": 950796,
+            "delta": 965
+        },
+        {
+            "timestamp": 1655344176232,
+            "totalRaw": 950796,
+            "delta": 0
+        },
+        {
+            "timestamp": 1655430615263,
+            "totalRaw": 950796,
+            "delta": 0
+        },
+        {
+            "timestamp": 1655517037332,
+            "totalRaw": 950796,
+            "delta": 0
+        },
+        {
+            "timestamp": 1655603853399,
+            "totalRaw": 953489,
+            "delta": 2693
+        },
+        {
+            "timestamp": 1655689875788,
+            "totalRaw": 953489,
+            "delta": 0
+        },
+        {
+            "timestamp": 1655776380196,
+            "totalRaw": 953489,
+            "delta": 0
+        },
+        {
+            "timestamp": 1655863289138,
+            "totalRaw": 953489,
+            "delta": 0
+        },
+        {
+            "timestamp": 1655949101958,
+            "totalRaw": 953489,
+            "delta": 0
+        },
+        {
+            "timestamp": 1656035607009,
+            "totalRaw": 953489,
+            "delta": 0
+        },
+        {
+            "timestamp": 1656062755632,
+            "totalRaw": 953489,
+            "delta": 0
+        },
+        {
+            "timestamp": 1656122294166,
+            "totalRaw": 953489,
+            "delta": 0
+        },
+        {
+            "timestamp": 1656208972393,
+            "totalRaw": 953489,
+            "delta": 0
+        },
+        {
+            "timestamp": 1656295147827,
+            "totalRaw": 960751,
+            "delta": 7262
+        },
+        {
+            "timestamp": 1656381399320,
+            "totalRaw": 960751,
+            "delta": 0
+        },
+        {
+            "timestamp": 1656554440594,
+            "totalRaw": 961074,
+            "delta": 323
+        },
+        {
+            "timestamp": 1656641400862,
+            "totalRaw": 961119,
+            "delta": 45
+        },
+        {
+            "timestamp": 1656726961307,
+            "totalRaw": 961119,
+            "delta": 0
+        },
+        {
+            "timestamp": 1656813831535,
+            "totalRaw": 1004367,
+            "delta": 43248
+        },
+        {
+            "timestamp": 1656900415548,
+            "totalRaw": 1004367,
+            "delta": 0
+        },
+        {
+            "timestamp": 1656986298079,
+            "totalRaw": 1006208,
+            "delta": 1841
+        },
+        {
+            "timestamp": 1657073284522,
+            "totalRaw": 1006208,
+            "delta": 0
+        },
+        {
+            "timestamp": 1657159537740,
+            "totalRaw": 1006850,
+            "delta": 642
+        },
+        {
+            "timestamp": 1657188122056,
+            "totalRaw": 1006850,
+            "delta": 0
+        },
+        {
+            "timestamp": 1657245676445,
+            "totalRaw": 1009236,
+            "delta": 2386
+        },
+        {
+            "timestamp": 1657331423993,
+            "totalRaw": 1009236,
+            "delta": 0
+        },
+        {
+            "timestamp": 1657399958487,
+            "totalRaw": 1011061,
+            "delta": 1825
+        },
+        {
+            "timestamp": 1657418802822,
+            "totalRaw": 1011061,
+            "delta": 1825
+        },
+        {
+            "timestamp": 1657504700289,
+            "totalRaw": 1011061,
+            "delta": 0
+        },
+        {
+            "timestamp": 1657591504651,
+            "totalRaw": 1011061,
+            "delta": 0
+        },
+        {
+            "timestamp": 1657677501576,
+            "totalRaw": 1011061,
+            "delta": 0
+        },
+        {
+            "timestamp": 1657720822916,
+            "totalRaw": 1011061,
+            "delta": 0
+        },
+        {
+            "timestamp": 1657764290050,
+            "totalRaw": 1011061,
+            "delta": 0
+        },
+        {
+            "timestamp": 1657851537716,
+            "totalRaw": 1011061,
+            "delta": 0
+        },
+        {
+            "timestamp": 1657936654072,
+            "totalRaw": 1011061,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658015620881,
+            "totalRaw": 1011061,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658023542008,
+            "totalRaw": 1011061,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658109780652,
+            "totalRaw": 1011061,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658196757966,
+            "totalRaw": 1020783,
+            "delta": 9722
+        },
+        {
+            "timestamp": 1658282372216,
+            "totalRaw": 1020783,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658368933110,
+            "totalRaw": 1020783,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658455380484,
+            "totalRaw": 1020783,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658541638416,
+            "totalRaw": 1020783,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658605543061,
+            "totalRaw": 1020783,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658605618609,
+            "totalRaw": 1020783,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658628394577,
+            "totalRaw": 1020783,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658714330753,
+            "totalRaw": 1020783,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658754156995,
+            "totalRaw": 1020783,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658801351300,
+            "totalRaw": 1020783,
+            "delta": 0
+        },
+        {
+            "timestamp": 1658887556412,
+            "totalRaw": 1028249,
+            "delta": 7466
+        },
+        {
+            "timestamp": 1658973493258,
+            "totalRaw": 1028635,
+            "delta": 386
+        },
+        {
+            "timestamp": 1659060541499,
+            "totalRaw": 1028635,
+            "delta": 0
+        },
+        {
+            "timestamp": 1659146398564,
+            "totalRaw": 1028635,
+            "delta": 0
+        },
+        {
+            "timestamp": 1659233607591,
+            "totalRaw": 1031540,
+            "delta": 2905
+        },
+        {
+            "timestamp": 1659319795959,
+            "totalRaw": 1031540,
+            "delta": 0
+        },
+        {
+            "timestamp": 1659406698988,
+            "totalRaw": 1031540,
+            "delta": 0
+        },
+        {
+            "timestamp": 1659492077023,
+            "totalRaw": 1031540,
+            "delta": 0
+        },
+        {
+            "timestamp": 1659578159415,
+            "totalRaw": 1031540,
+            "delta": 0
+        },
+        {
+            "timestamp": 1659664674355,
+            "totalRaw": 1036234,
+            "delta": 4694
+        },
+        {
+            "timestamp": 1659750903773,
+            "totalRaw": 1057039,
+            "delta": 20805
+        },
+        {
+            "timestamp": 1659837735795,
+            "totalRaw": 1057039,
+            "delta": 0
+        },
+        {
+            "timestamp": 1659923655020,
+            "totalRaw": 1057039,
+            "delta": 0
+        },
+        {
+            "timestamp": 1660010777899,
+            "totalRaw": 1057039,
+            "delta": 0
+        },
+        {
+            "timestamp": 1660096002975,
+            "totalRaw": 1057039,
+            "delta": 0
+        },
+        {
+            "timestamp": 1660182610787,
+            "totalRaw": 1062376,
+            "delta": 5337
+        },
+        {
+            "timestamp": 1660269304931,
+            "totalRaw": 1062376,
+            "delta": 0
+        },
+        {
+            "timestamp": 1660355363241,
+            "totalRaw": 1068215,
+            "delta": 5839
+        },
+        {
+            "timestamp": 1660442675681,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1660529199723,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1660557647822,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1660615523995,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1660702403040,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1660789406004,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1660874726709,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1660961054872,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661047125870,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661133785017,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661220652129,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661306820796,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661393493993,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661480319208,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661566350529,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661653494523,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661739705175,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661826368608,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661913189152,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1661998079297,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1662084764397,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1662171610913,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1662257472399,
+            "totalRaw": 1068215,
+            "delta": 0
+        },
+        {
+            "timestamp": 1662344474937,
+            "totalRaw": 1068831,
+            "delta": 616
+        },
+        {
+            "timestamp": 1662431157273,
+            "totalRaw": 1068840,
+            "delta": 9
+        },
+        {
+            "timestamp": 1662517437647,
+            "totalRaw": 1068840,
+            "delta": 0
+        },
+        {
+            "timestamp": 1662603703976,
+            "totalRaw": 1068888,
+            "delta": 48
+        },
+        {
+            "timestamp": 1662690246785,
+            "totalRaw": 1068888,
+            "delta": 0
+        },
+        {
+            "timestamp": 1662776740628,
+            "totalRaw": 1068888,
+            "delta": 0
+        },
+        {
+            "timestamp": 1662863016169,
+            "totalRaw": 1095462,
+            "delta": 26574
+        },
+        {
+            "timestamp": 1662949699097,
+            "totalRaw": 1095462,
+            "delta": 0
+        },
+        {
+            "timestamp": 1663035838914,
+            "totalRaw": 1095462,
+            "delta": 0
+        },
+        {
+            "timestamp": 1663122135754,
+            "totalRaw": 1097706,
+            "delta": 2244
+        },
+        {
+            "timestamp": 1663209005008,
+            "totalRaw": 1098288,
+            "delta": 582
+        },
+        {
+            "timestamp": 1663295474982,
+            "totalRaw": 1098288,
+            "delta": 0
+        },
+        {
+            "timestamp": 1663380667972,
+            "totalRaw": 1098288,
+            "delta": 0
+        },
+        {
+            "timestamp": 1663468507379,
+            "totalRaw": 1098288,
+            "delta": 0
+        },
+        {
+            "timestamp": 1663554554800,
+            "totalRaw": 1100897,
+            "delta": 2609
+        },
+        {
+            "timestamp": 1663640461153,
+            "totalRaw": 1100897,
+            "delta": 0
+        },
+        {
+            "timestamp": 1663727424613,
+            "totalRaw": 1100897,
+            "delta": 0
+        },
+        {
+            "timestamp": 1663839068855,
+            "totalRaw": 1100897,
+            "delta": 0
+        },
+        {
+            "timestamp": 1663899900505,
+            "totalRaw": 1100897,
+            "delta": 0
+        },
+        {
+            "timestamp": 1663986302176,
+            "totalRaw": 1100897,
+            "delta": 0
+        },
+        {
+            "timestamp": 1664072716073,
+            "totalRaw": 1100897,
+            "delta": 0
+        },
+        {
+            "timestamp": 1664159182914,
+            "totalRaw": 1100897,
+            "delta": 0
+        },
+        {
+            "timestamp": 1664245020359,
+            "totalRaw": 1100897,
+            "delta": 0
+        },
+        {
+            "timestamp": 1664331606499,
+            "totalRaw": 1100897,
+            "delta": 0
+        },
+        {
+            "timestamp": 1664418400562,
+            "totalRaw": 1100897,
+            "delta": 0
+        },
+        {
+            "timestamp": 1664505742639,
+            "totalRaw": 1101779,
+            "delta": 882
+        },
+        {
+            "timestamp": 1664591814723,
+            "totalRaw": 1109738,
+            "delta": 7959
+        },
+        {
+            "timestamp": 1664677726405,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1664762316204,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1664849302726,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1664919385104,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1664935649795,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665021719971,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665109025433,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665194235952,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665281934769,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665368491846,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665454354241,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665541756203,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665627684012,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665677688500,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665714764827,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665800834478,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665887598014,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1665974109212,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1666059941717,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1666146146204,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1666232615722,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1666317417945,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1666404564875,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1666491791579,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1666578895977,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1666664956629,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1666749865130,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1666836074483,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1666922960321,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1667008483212,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1667096122220,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1667182609758,
+            "totalRaw": 1109738,
+            "delta": 0
+        },
+        {
+            "timestamp": 1667269413386,
+            "totalRaw": 1129558,
+            "delta": 19820
+        },
+        {
+            "timestamp": 1667355016280,
+            "totalRaw": 1130059,
+            "delta": 501
+        },
+        {
+            "timestamp": 1667440594919,
+            "totalRaw": 1130359,
+            "delta": 300
+        },
+        {
+            "timestamp": 1667527326093,
+            "totalRaw": 1130359,
+            "delta": 0
+        },
+        {
+            "timestamp": 1667613315503,
+            "totalRaw": 1131788,
+            "delta": 1429
+        },
+        {
+            "timestamp": 1667699844419,
+            "totalRaw": 1131788,
+            "delta": 0
+        },
+        {
+            "timestamp": 1667785936840,
+            "totalRaw": 1133985,
+            "delta": 2197
+        },
+        {
+            "timestamp": 1667872319755,
+            "totalRaw": 1133985,
+            "delta": 0
+        },
+        {
+            "timestamp": 1667959394001,
+            "totalRaw": 1133985,
+            "delta": 0
+        },
+        {
+            "timestamp": 1668045357730,
+            "totalRaw": 1133985,
+            "delta": 0
+        },
+        {
+            "timestamp": 1668131736803,
+            "totalRaw": 1133985,
+            "delta": 0
+        },
+        {
+            "timestamp": 1668217876555,
+            "totalRaw": 1137022,
+            "delta": 3037
+        },
+        {
+            "timestamp": 1668304231876,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1668390639047,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1668476870515,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1668563347546,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1668649672978,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1668736297852,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1668822369973,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1668909159644,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1668995414689,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1669081824958,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1669167480569,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1669254128084,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1669340319864,
+            "totalRaw": 1137022,
+            "delta": 0
+        },
+        {
+            "timestamp": 1669426035051,
+            "totalRaw": 1140222,
+            "delta": 3200
+        },
+        {
+            "timestamp": 1669513459695,
+            "totalRaw": 1140222,
+            "delta": 0
+        },
+        {
+            "timestamp": 1669599412625,
+            "totalRaw": 1187006,
+            "delta": 46784
+        },
+        {
+            "timestamp": 1669685815079,
+            "totalRaw": 1187006,
+            "delta": 0
+        },
+        {
+            "timestamp": 1669772281290,
+            "totalRaw": 1187006,
+            "delta": 0
+        },
+        {
+            "timestamp": 1669859334494,
+            "totalRaw": 1187006,
+            "delta": 0
+        },
+        {
+            "timestamp": 1669944293350,
+            "totalRaw": 1190334,
+            "delta": 3328
+        },
+        {
+            "timestamp": 1670030475547,
+            "totalRaw": 1193766,
+            "delta": 3432
+        },
+        {
+            "timestamp": 1670117196558,
+            "totalRaw": 1193766,
+            "delta": 0
+        },
+        {
+            "timestamp": 1670203455353,
+            "totalRaw": 1195253,
+            "delta": 1487
+        },
+        {
+            "timestamp": 1670289814281,
+            "totalRaw": 1213096,
+            "delta": 17843
+        },
+        {
+            "timestamp": 1670317602357,
+            "totalRaw": 1213096,
+            "delta": 0
+        },
+        {
+            "timestamp": 1670376431026,
+            "totalRaw": 1213805,
+            "delta": 709
+        },
+        {
+            "timestamp": 1670462683040,
+            "totalRaw": 1213805,
+            "delta": 0
+        },
+        {
+            "timestamp": 1670549206579,
+            "totalRaw": 1215372,
+            "delta": 1567
+        },
+        {
+            "timestamp": 1670635288839,
+            "totalRaw": 1216420,
+            "delta": 1048
+        },
+        {
+            "timestamp": 1670722651872,
+            "totalRaw": 1218497,
+            "delta": 2077
+        },
+        {
+            "timestamp": 1670808409576,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1670866508183,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1670895351836,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1670981125840,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1671067649534,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1671153644795,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1671239906015,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1671326466232,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1671412733005,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1671499374051,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1671585531255,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1671672098392,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1671758390797,
+            "totalRaw": 1218497,
+            "delta": 0
+        },
+        {
+            "timestamp": 1671844501140,
+            "totalRaw": 1231124,
+            "delta": 12627
+        },
+        {
+            "timestamp": 1671931454233,
+            "totalRaw": 1231124,
+            "delta": 0
+        },
+        {
+            "timestamp": 1672017681079,
+            "totalRaw": 1231124,
+            "delta": 0
+        },
+        {
+            "timestamp": 1672103989723,
+            "totalRaw": 1231124,
+            "delta": 0
+        },
+        {
+            "timestamp": 1672190405085,
+            "totalRaw": 1231124,
+            "delta": 0
+        },
+        {
+            "timestamp": 1672276956946,
+            "totalRaw": 1236290,
+            "delta": 5166
+        },
+        {
+            "timestamp": 1672363332395,
+            "totalRaw": 1236290,
+            "delta": 0
+        },
+        {
+            "timestamp": 1672449607871,
+            "totalRaw": 1236864,
+            "delta": 574
+        },
+        {
+            "timestamp": 1672537237365,
+            "totalRaw": 1236864,
+            "delta": 0
+        },
+        {
+            "timestamp": 1672622514117,
+            "totalRaw": 1236964,
+            "delta": 100
+        },
+        {
+            "timestamp": 1672708846558,
+            "totalRaw": 1236964,
+            "delta": 0
+        },
+        {
+            "timestamp": 1672795371501,
+            "totalRaw": 1236964,
+            "delta": 0
+        },
+        {
+            "timestamp": 1672881911024,
+            "totalRaw": 1236964,
+            "delta": 0
+        },
+        {
+            "timestamp": 1672968304152,
+            "totalRaw": 1245167,
+            "delta": 8203
+        },
+        {
+            "timestamp": 1673054519927,
+            "totalRaw": 1245167,
+            "delta": 0
+        },
+        {
+            "timestamp": 1673141663862,
+            "totalRaw": 1245167,
+            "delta": 0
+        },
+        {
+            "timestamp": 1673227379168,
+            "totalRaw": 1263040,
+            "delta": 17873
+        },
+        {
+            "timestamp": 1673313991247,
+            "totalRaw": 1263040,
+            "delta": 0
+        },
+        {
+            "timestamp": 1673400262386,
+            "totalRaw": 1263884,
+            "delta": 844
+        },
+        {
+            "timestamp": 1673486720629,
+            "totalRaw": 1263884,
+            "delta": 0
+        },
+        {
+            "timestamp": 1673573161196,
+            "totalRaw": 1269876,
+            "delta": 5992
+        },
+        {
+            "timestamp": 1673659173416,
+            "totalRaw": 1269876,
+            "delta": 0
+        },
+        {
+            "timestamp": 1673746457279,
+            "totalRaw": 1271452,
+            "delta": 1576
+        },
+        {
+            "timestamp": 1673832174415,
+            "totalRaw": 1274493,
+            "delta": 3041
+        },
+        {
+            "timestamp": 1673918587910,
+            "totalRaw": 1274493,
+            "delta": 0
+        },
+        {
+            "timestamp": 1674005171913,
+            "totalRaw": 1274493,
+            "delta": 0
+        },
+        {
+            "timestamp": 1674091667337,
+            "totalRaw": 1274493,
+            "delta": 0
+        },
+        {
+            "timestamp": 1674115542640,
+            "totalRaw": 1274493,
+            "delta": 0
+        },
+        {
+            "timestamp": 1674351712182,
+            "totalRaw": 1275063,
+            "delta": 570
+        },
+        {
+            "timestamp": 1674956585174,
+            "totalRaw": 1275460,
+            "delta": 397
+        },
+        {
+            "timestamp": 1675561528733,
+            "totalRaw": 1275460,
+            "delta": 0
+        },
+        {
+            "timestamp": 1676166183309,
+            "totalRaw": 1275460,
+            "delta": 0
+        },
+        {
+            "timestamp": 1676771035868,
+            "totalRaw": 1300750,
+            "delta": 25290
+        },
+        {
+            "timestamp": 1677376194040,
+            "totalRaw": 1301397,
+            "delta": 647
+        },
+        {
+            "timestamp": 1677981312248,
+            "totalRaw": 1301629,
+            "delta": 232
+        },
+        {
+            "timestamp": 1678585504877,
+            "totalRaw": 1327275,
+            "delta": 25646
+        },
+        {
+            "timestamp": 1679190310862,
+            "totalRaw": 1387210,
+            "delta": 59935
+        },
+        {
+            "timestamp": 1679244932510,
+            "totalRaw": 1387210,
+            "delta": 0
+        },
+        {
+            "timestamp": 1679794692138,
+            "totalRaw": 1408138,
+            "delta": 20928
+        },
+        {
+            "timestamp": 1680074088125,
+            "totalRaw": 1408138,
+            "delta": 0
+        },
+        {
+            "timestamp": 1680398805796,
+            "totalRaw": 1408138,
+            "delta": 0
+        },
+        {
+            "timestamp": 1681003502782,
+            "totalRaw": 1408138,
+            "delta": 0
+        },
+        {
+            "timestamp": 1681608870838,
+            "totalRaw": 1440761,
+            "delta": 32623
+        },
+        {
+            "timestamp": 1682213950491,
+            "totalRaw": 1440948,
+            "delta": 187
+        },
+        {
+            "timestamp": 1682818421072,
+            "totalRaw": 1475641,
+            "delta": 34693
+        },
+        {
+            "timestamp": 1683423347261,
+            "totalRaw": 1510100,
+            "delta": 34459
+        },
+        {
+            "timestamp": 1684028080083,
+            "totalRaw": 1510100,
+            "delta": 0
+        },
+        {
+            "timestamp": 1684633045210,
+            "totalRaw": 1552812,
+            "delta": 42712
+        },
+        {
+            "timestamp": 1685533434667,
+            "totalRaw": 1558688,
+            "delta": 5876
+        },
+        {
+            "timestamp": 1685533474682,
+            "totalRaw": 1558688,
+            "delta": 0
+        },
+        {
+            "timestamp": 1685533609678,
+            "totalRaw": 1558688,
+            "delta": 0
+        },
+        {
+            "timestamp": 1685533742119,
+            "totalRaw": 1558688,
+            "delta": 0
+        },
+        {
+            "timestamp": 1685533809816,
+            "totalRaw": 1558688,
+            "delta": 0
+        },
+        {
+            "timestamp": 1685844151058,
+            "totalRaw": 1558688,
+            "delta": 0
+        },
+        {
+            "timestamp": 1686448555436,
+            "totalRaw": 1558688,
+            "delta": 0
+        },
+        {
+            "timestamp": 1687053269333,
+            "totalRaw": 1646915,
+            "delta": 88227
+        },
+        {
+            "timestamp": 1687658587977,
+            "totalRaw": 1646915,
+            "delta": 0
+        },
+        {
+            "timestamp": 1688263142556,
+            "totalRaw": 1662591,
+            "delta": 15676
+        },
+        {
+            "timestamp": 1688868063141,
+            "totalRaw": 1662591,
+            "delta": 0
+        },
+        {
+            "timestamp": 1689473120281,
+            "totalRaw": 1691198,
+            "delta": 28607
+        },
+        {
+            "timestamp": 1690076410340,
+            "totalRaw": 1695999,
+            "delta": 4801
+        },
+        {
+            "timestamp": 1690680287767,
+            "totalRaw": 1706002,
+            "delta": 10003
+        },
+        {
+            "timestamp": 1691016308131,
+            "totalRaw": 1706113,
+            "delta": 111
+        },
+        {
+            "timestamp": 1691284615583,
+            "totalRaw": 1706113,
+            "delta": 0
+        },
+        {
+            "timestamp": 1691889165073,
+            "totalRaw": 1890709,
+            "delta": 184596
+        },
+        {
+            "timestamp": 1692438319769,
+            "totalRaw": 1890709,
+            "delta": 0
+        },
+        {
+            "timestamp": 1692493936126,
+            "totalRaw": 1890709,
+            "delta": 0
+        },
+        {
+            "timestamp": 1693098862201,
+            "totalRaw": 1910866,
+            "delta": 20157
+        },
+        {
+            "timestamp": 1693490020115,
+            "totalRaw": 1910866,
+            "delta": 0
+        },
+        {
+            "timestamp": 1693703671793,
+            "totalRaw": 1910866,
+            "delta": 0
+        },
+        {
+            "timestamp": 1694308505182,
+            "totalRaw": 1910866,
+            "delta": 0
+        },
+        {
+            "timestamp": 1694913317625,
+            "totalRaw": 1910866,
+            "delta": 0
+        },
+        {
+            "timestamp": 1695518139888,
+            "totalRaw": 2014900,
+            "delta": 104034
+        },
+        {
+            "timestamp": 1696123279464,
+            "totalRaw": 2023567,
+            "delta": 8667
+        },
+        {
+            "timestamp": 1696727824359,
+            "totalRaw": 2057547,
+            "delta": 33980
+        },
+        {
+            "timestamp": 1697332666145,
+            "totalRaw": 2057547,
+            "delta": 0
+        },
+        {
+            "timestamp": 1697937443289,
+            "totalRaw": 2075121,
+            "delta": 17574
+        },
+        {
+            "timestamp": 1698542199578,
+            "totalRaw": 2080808,
+            "delta": 5687
+        },
+        {
+            "timestamp": 1698761256320,
+            "totalRaw": 2080808,
+            "delta": 0
+        },
+        {
+            "timestamp": 1699147080433,
+            "totalRaw": 2080808,
+            "delta": 0
+        },
+        {
+            "timestamp": 1699751927947,
+            "totalRaw": 2080808,
+            "delta": 0
+        },
+        {
+            "timestamp": 1700356875643,
+            "totalRaw": 2080808,
+            "delta": 0
+        },
+        {
+            "timestamp": 1700961608364,
+            "totalRaw": 2080808,
+            "delta": 0
+        },
+        {
+            "timestamp": 1701566421305,
+            "totalRaw": 2080808,
+            "delta": 0
+        },
+        {
+            "timestamp": 1702171298116,
+            "totalRaw": 2113307,
+            "delta": 32499
+        },
+        {
+            "timestamp": 1702776092850,
+            "totalRaw": 2117315,
+            "delta": 4008
+        },
+        {
+            "timestamp": 1703380786898,
+            "totalRaw": 2126033,
+            "delta": 8718
+        },
+        {
+            "timestamp": 1703499295006,
+            "totalRaw": 2126033,
+            "delta": 0
+        },
+        {
+            "timestamp": 1703985631518,
+            "totalRaw": 2126033,
+            "delta": 0
+        },
+        {
+            "timestamp": 1704287820344,
+            "totalRaw": 2126033,
+            "delta": 0
+        },
+        {
+            "timestamp": 1704395804645,
+            "totalRaw": 2136015,
+            "delta": 9982
+        },
+        {
+            "timestamp": 1704590567986,
+            "totalRaw": 2137287,
+            "delta": 1272
+        },
+        {
+            "timestamp": 1705195382379,
+            "totalRaw": 2137287,
+            "delta": 0
+        },
+        {
+            "timestamp": 1705800207791,
+            "totalRaw": 2341614,
+            "delta": 204327
+        },
+        {
+            "timestamp": 1706404606963,
+            "totalRaw": 2357934,
+            "delta": 16320
+        },
+        {
+            "timestamp": 1707009397497,
+            "totalRaw": 2384341,
+            "delta": 26407
+        },
+        {
+            "timestamp": 1707614198709,
+            "totalRaw": 2384341,
+            "delta": 0
+        },
+        {
+            "timestamp": 1708218950014,
+            "totalRaw": 2432119,
+            "delta": 47778
+        },
+        {
+            "timestamp": 1708435738848,
+            "totalRaw": 2438362,
+            "delta": 6243
+        },
+        {
+            "timestamp": 1708823739828,
+            "totalRaw": 2448656,
+            "delta": 10294
+        },
+        {
+            "timestamp": 1709428511192,
+            "totalRaw": 2463755,
+            "delta": 15099
+        },
+        {
+            "timestamp": 1710033343834,
+            "totalRaw": 2479363,
+            "delta": 15608
+        },
+        {
+            "timestamp": 1710436146963,
+            "totalRaw": 2491206,
+            "delta": 11843
+        },
+        {
+            "timestamp": 1710638150225,
+            "totalRaw": 2497615,
+            "delta": 6409
+        },
+        {
+            "timestamp": 1711243104622,
+            "totalRaw": 2514855,
+            "delta": 17240
+        }
+    ],
+    "mods": [
+        {
+            "curseforge": {
+                "id": 301609,
+                "url": "https://www.curseforge.com/minecraft/mc-mods/xray-1-13-rift-modloader"
+            },
+            "github": {
+                "url": "https://github.com/ate47/Xray"
+            },
+            "title": "Xray Mod",
+            "img": "https://media.forgecdn.net/avatars/248/826/637170410890416666.png"
+        },
+        {
+            "curseforge": {
+                "id": 250611,
+                "url": "https://www.curseforge.com/minecraft/mc-mods/horse-debug-info"
+            },
+            "modrinth": {
+                "id": "zfssTdMF",
+                "url": "https://modrinth.com/mod/horse-debug-info"
+            },
+            "github": {
+                "url": "https://github.com/ate47/HorseInfo"
+            },
+            "title": "Horse Debug Info",
+            "img": "https://media.forgecdn.net/avatars/49/952/636084339577416961.png"
+        },
+        {
+            "curseforge": {
+                "id": 278476,
+                "url": "https://www.curseforge.com/minecraft/mc-mods/cursor-mod"
+            },
+            "modrinth": {
+                "id": "57tyahcz",
+                "url": "https://modrinth.com/mod/cursormod"
+            },
+            "github": {
+                "url": "https://github.com/ate47/CursorMod"
+            },
+            "title": "Cursor Mod",
+            "img": "https://media.forgecdn.net/avatars/147/189/636575153366622252.png"
+        },
+        {
+            "curseforge": {
+                "id": 246825,
+                "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-extended-creative-mode"
+            },
+            "modrinth": {
+                "id": "yjyLUbhH",
+                "url": "https://modrinth.com/mod/act"
+            },
+            "github": {
+                "url": "https://github.com/ate47/AdvancedCreativeTab"
+            },
+            "title": "Advanced Creative Tab",
+            "img": "https://media.forgecdn.net/avatars/158/524/636652887647164978.png"
+        },
+        {
+            "curseforge": {
+                "id": 246934,
+                "url": "https://www.curseforge.com/minecraft/mc-mods/the-autologin-mod-for-authme-server"
+            },
+            "github": {
+                "url": "https://github.com/ate47/AutoLoginMod"
+            },
+            "title": "AutoLogin",
+            "img": "https://media.forgecdn.net/avatars/165/492/636692653735172206.png"
+        },
+        {
+            "curseforge": {
+                "id": 262881,
+                "url": "https://www.curseforge.com/minecraft/mc-mods/command-spammer"
+            },
+            "github": {
+                "url": "https://github.com/ate47/CommandSpammer"
+            },
+            "title": "Command Spammer",
+            "img": "https://media.forgecdn.net/avatars/91/971/636251579969201113.png"
+        },
+        {
+            "curseforge": {
+                "id": 289378,
+                "url": "https://www.curseforge.com/minecraft/bukkit-plugins/customtabbukkit"
+            },
+            "github": {
+                "url": "https://github.com/ate47/CustomTabBukkit"
+            },
+            "title": "Custom Tab Information",
+            "img": "https://media.forgecdn.net/avatars/144/501/636556360239941641.png"
+        },
+        {
+            "curseforge": {
+                "id": 285103,
+                "url": "https://www.curseforge.com/minecraft/mc-mods/text-overlay"
+            },
+            "title": "Text Overlay",
+            "img": "https://media.forgecdn.net/avatars/136/928/636511160567255599.png"
+        },
+        {
+            "curseforge": {
+                "id": 256413,
+                "url": "https://www.curseforge.com/minecraft/mc-mods/gm3-teleporter"
+            },
+            "github": {
+                "url": "https://github.com/ate47/GM3-Teleporter"
+            },
+            "title": "Spectator Teleporter",
+            "img": "https://media.forgecdn.net/avatars/83/651/636189796134448757.png"
+        },
+        {
+            "curseforge": {
+                "id": 263242,
+                "url": "https://www.curseforge.com/minecraft/mc-mods/atehud"
+            },
+            "title": "ATEHUD",
+            "img": "https://media.forgecdn.net/avatars/138/392/636521236210823337.png"
+        },
+        {
+            "curseforge": {
+                "id": 289273,
+                "url": "https://www.curseforge.com/minecraft/bukkit-plugins/discordchatbridge"
+            },
+            "github": {
+                "url": "https://github.com/ate47/discordchatbridge"
+            },
+            "title": "Discord Chat Bridge",
+            "img": "https://media.forgecdn.net/avatars/144/234/636554514689983305.png"
+        }
+    ],
+    "global": {},
+    "today": "Sun, 24 Mar 2024 01:18:24 GMT",
+    "timestamp": 1711243104622
+}
