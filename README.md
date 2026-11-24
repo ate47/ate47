@@ -14,7 +14,7 @@ You can know me from some of my projects
 - Some random things with Call of Duty ([Internal information and menus](https://github.com/ate47/t8-atian-menu) / [Tools CLI](https://github.com/ate47/atian-cod-tools))
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ATE47&show_icons=true&theme=default)
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ATE47&theme=default&layout=compact&exclude_repo=bo4-source,bocw-source,mwiii-source,bo3-source,bo6-source,oldcod-source,cod-source,bo4-source-lua)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ATE47&theme=default&layout=compact&exclude_repo=bo4-source,bocw-source,mwiii-source,bo3-source,bo6-source,oldcod-source,cod-source,bo4-source-lua,bo7-source,mw4-source)
 
 ### Discord 🎮
 
